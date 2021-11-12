@@ -23,7 +23,7 @@ De esta página nos gustó el carrito de comprar, detalle del producto, registro
 - LUXO (https://www.luxo.com.ar/) <br>
 De esta página nos gustó la gama de colores y productos.
 - JOOKS (https://www.jooks.com.ar/) <br>
-De esta página nso gustó el nombre.
+De esta página nos gustó el nombre.
 - GYG JENS (https://www.gygjeans.com.ar/) <br>
 De esta página nos gustó la gama de colores y tipografía.
 
