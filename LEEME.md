@@ -2,7 +2,7 @@
 **_Proyecto Integrador - SPRINT 1_**
 
 ## Descripcion: 
-Nuestro sitio ofrece indumentaria unisex para adolescentes. Con distintas secciones para que temática de ropa quiera como anime, juegos, trabajo, etc.
+Nuestro sitio ofrece indumentaria unisex para adolescentes. Con distintas secciones para un estilo urbano, cómodo.
 
 ## Integrantes: 
 <!-->
