@@ -2,7 +2,7 @@
 _CHIMUELO_
 [CHIMUELO]
 ```{CHIMUELO}```
-´CHIRU´
+`CHIRU`
 #Q
 ##Q
 - *CHIMUELO!*
