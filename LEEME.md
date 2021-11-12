@@ -15,7 +15,7 @@ Un Barista, 23 años. Le gusta el anime y dialogar sobre ello. Tiene buen carism
 - **Mariela Calcina** 👩‍💻<br>
 18 años. Fan de Harry Potter, anime, kpop y más cosas básicas.<br>
 
-Tomaremos referencia a estas paginas:<br>
+## Tomaremos referencia a estas paginas:<br>
     - EQUUS (https://www.equus.com.ar/) ... <br>
 
     - LIMAY (https://www.limaydenim.com/) ... <br>
