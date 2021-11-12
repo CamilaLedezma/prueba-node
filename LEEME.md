@@ -6,8 +6,8 @@
 Nuestro sitio ofrece indumentaria para toda persona con cualquier edad, ya sea para niños, bebes o adultos. Con distintas secciones para que temática de ropa quiera como anime, juegos, trabajo, etc.
 
 ## Integrantes:
-<br>
-*Alexander Lamas*
+<!-->
+**Alexander Lamas**
 <br>
 Lider del grupo y técnico en computación. A veces comunicativo y participativo aunque tambien tímido. "Casi nunca se me da el puesto de lider, pero no se pierde nada con intentarlo... ¿No crees?"
     - **Camila Ledezma** ...
