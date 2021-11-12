@@ -1,8 +1,9 @@
 # grupo_2_Indefined
-**_Proyecto Integrador - SPRINT 1 _**
+**_Proyecto Integrador - SPRINT 1_**
 
-Descripcion:<br>
-    Nuestro sitio ofrece indumentaria para toda persona con cualquier edad, ya sea para niños, bebes o adultos. Con distintas secciones para que temática de ropa quiera como anime, juegos, trabajo, etc.
+## Descripcion: 
+<br>
+Nuestro sitio ofrece indumentaria para toda persona con cualquier edad, ya sea para niños, bebes o adultos. Con distintas secciones para que temática de ropa quiera como anime, juegos, trabajo, etc.
 
 ## Integrantes:
     - **Alexander Lamas** ...
