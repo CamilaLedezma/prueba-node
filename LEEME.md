@@ -6,7 +6,7 @@ Nuestro sitio ofrece indumentaria para toda persona con cualquier edad, ya sea p
 
 ## Integrantes: 
 <!-->
-- **Alexander Lamas** 👨‍💻
+- **Alexander Lamas** 👨‍💻 <br>
 Lider del grupo y técnico en computación. A veces comunicativo y participativo aunque tambien tímido.<br> "Casi nunca se me da el puesto de lider, pero no se pierde nada con intentarlo... ¿No crees?"<br>
 - **Camila Ledezma** 👩‍💻
 Estudiante de ingeniería en sistemas, me gusta: el rock nacional, los Simpsons y juegos como Mario Bross
