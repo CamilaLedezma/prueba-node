@@ -17,10 +17,14 @@ Un Barista, 23 años. Le gusta el anime y dialogar sobre ello. Tiene buen carism
 
 ## Tomaremos referencia a estas paginas:<br>
 - EQUUS (https://www.equus.com.ar/) <br>
-De esta página nos gusto la pagina de inicio 
+De esta página nos gustó el inicio 
 - LIMAY (https://www.limaydenim.com/) <br>
+De esta página nos gustó el carrito de comprar, detalle del producto, registro y login.
 - LUXO (https://www.luxo.com.ar/) <br>
+De esta página nos gustó la gama de colores y productos.
 - JOOKS (https://www.jooks.com.ar/) <br>
+
 - GYG JENS (https://www.gygjeans.com.ar/) <br>
+De esta página nos gustó la gama de colores y tipografía
 
 
