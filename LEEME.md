@@ -16,10 +16,11 @@ Un Barista, 23 años. Le gusta el anime y dialogar sobre ello. Tiene buen carism
 18 años. Fan de Harry Potter, anime, kpop y más cosas básicas.<br>
 
 ## Tomaremos referencia a estas paginas:<br>
-- EQUUS (https://www.equus.com.ar/) ... <br>
-- LIMAY (https://www.limaydenim.com/) ... <br>
-- LUXO (https://www.luxo.com.ar/)... <br>
-- JOOKS (https://www.jooks.com.ar/)... <br>
-- GYG JENS (https://www.gygjeans.com.ar/)... <br>
+- EQUUS (https://www.equus.com.ar/) <br>
+De esta página nos gusto la pagina de inicio 
+- LIMAY (https://www.limaydenim.com/) <br>
+- LUXO (https://www.luxo.com.ar/) <br>
+- JOOKS (https://www.jooks.com.ar/) <br>
+- GYG JENS (https://www.gygjeans.com.ar/) <br>
 
-Comparten una estructura muy similar, los productos estan muy organizados visualmente a excepcion de como se ven algunos en movil y los colores basicos destacables son mayormente el blanco y negro.
+
